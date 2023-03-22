@@ -1,6 +1,9 @@
 
 
 function calculator() {
-    return;
+    
+    getInput();
+    empty_input();
+    del_input();
 }
 calculator()
