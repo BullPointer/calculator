@@ -18,3 +18,5 @@ function del_input() {
         screen.textContent = output2;
     });
 }
+
+  
